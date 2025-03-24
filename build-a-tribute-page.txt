@@ -1,0 +1,71 @@
+** start of undefined **
+
+<!doctype html>
+ <html lang="en">
+  <head>
+   <meta charset="utf-8"/>
+    <title id="title">Naruto Tribute Page</title>
+    <link rel="stylesheet" href="styles.css"/>
+   </head>
+     <main id="main">
+   <body>
+     <h1>Naruto Uzumaki</h1>
+      <p>Honoring the Great Knuckle Head Ninja, <b>Naruto Uzumaki</b>
+      </p>
+        <div id="img-div">
+          <img id="image" alt="naruto" id="tribute-info" class="center" src="https://i.pinimg.com/originals/84/f9/c8/84f9c824f2440c36b79cacdea68855ff.jpg">
+         <div id="img-caption">Sage of the Six Paths Naruto</div>
+         <div id="tribute-info">The story of Naruto Uzumaki derives from resilience, hardwork, pain, and guts. His story is how a kid with no talent, can turn into a <i><b>Legend</b></i>.
+        </div>
+        <h2>The Legend</h2>
+         <p>Naruto started off as a kid with no talent, who excelled in virtually nothing.</p>
+         <p>Right after birth, he was given a major burden that caused him to be completely ostracized and hated. That burden was known as, the <i>Nine Tailed Fox</i></p>
+         <p>Despite having felt the contant pain on neglection from his village, he was able to gain a small amount of friends. These friends fed him life and helped lessen his pain. In addition, he made ot his goal to become the leader of the Leaf Village, the <b>Hokage</b>.
+           <p>There was one key friend that he seen more as a brother. Naruto clinged to this friend as he also suffered the pain of loss and loneliness. And once this friend deserted his home village to seek power for revenge, Naruto made it his goal to bring this friend back home. This friend, was named Sasuke.
+            <p>As time went on, Naruto was able to grow in age, ability, and influence. When war came about, it came down to the same kid that was hated and shunned by his homeland and friend to save the entirety of the Ninja World.<p>
+              <p>Naruto was not only able to save the Ninja World, but he was able to save his best-friend, and attain his goal as the Seventh Hokage of the Hidden Leaf Village.</p>
+              <p>This is the legend the <b>#1 Knuckle-Head Ninja, Naruto Uzumaki</b></p>
+        <div>
+       <a id="tribute-link" href="#anime-kings" value="naruto" target="_blank">Anime Kings</a>
+       </div>
+  </body>
+ </main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+h1 {
+  text-align: center;
+  border-bottom: solid blue;
+  color: gold;
+}
+
+p {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  max-width: 100%;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  background-color: grey;
+}
+
+h2{
+  border-bottom: 5px solid gold;
+  color: black;
+}
+
+** end of undefined **
+
