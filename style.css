@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  border-bottom: solid blue;
+  color: gold;
+}
+
+p {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  max-width: 100%;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  background-color: grey;
+}
+
+h2{
+  border-bottom: 5px solid gold;
+  color: black;
+}
